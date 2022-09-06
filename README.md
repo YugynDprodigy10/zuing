@@ -1,2 +1,2 @@
 # zuing
-defi platform
+Defi platform
